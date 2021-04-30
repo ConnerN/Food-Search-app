@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Food Search ( •̀ ω •́ )✧</string>
+    <string name="loading_error">Unable to execute search.  Please check your internet connection.</string>
+
+    <string name="action_share">Share</string>
+    <string name="action_view_on_web">Search on Google</string>
+
+    <string name="share_repo_text">Check out this I found in the Food Search App %1$s (%2$s)</string>
+</resources>
