@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_history.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-hdpi\\ic_action_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_history.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\layout_foodnutrient_list_item.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\layout\\foodnutrient_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_share.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-anydpi\\ic_action_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_shape.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable\\btn_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_pause.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-anydpi\\ic_action_pause.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\raw_m1.mp3.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\raw\\m1.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_history.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-mdpi\\ic_action_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_star_border_24.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable\\ic_baseline_star_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_pause.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-hdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_play.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-anydpi\\ic_action_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_pause.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-mdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_repo_detail.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\layout\\activity_repo_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_play.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-mdpi\\ic_action_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_pause.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-hdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_pause.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_history.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_history.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_history.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-anydpi\\ic_action_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\menu_repo_detail.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\menu\\repo_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\raw_m2.mp3.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\raw\\m2.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_play.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-hdpi\\ic_action_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_play.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_result_item.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\layout\\search_result_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_play.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_play.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\layout_food_history_item.xml.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\layout\\food_history_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_share.png.flat",
+        "source": "C:\\Users\\Phil\\Desktop\\ClassFiles\\CS\\CS 492\\Final\\app\\src\\main\\res\\drawable-mdpi\\ic_action_share.png"
+    }
+]
